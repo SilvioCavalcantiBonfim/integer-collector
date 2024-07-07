@@ -44,12 +44,12 @@ O projeto implementa as seguintes funcionalidades:
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/SilvioCavalcantiBonfim/integer-collector
    ```
 
 2. **Navegue até o Diretório do Projeto**
    ```bash
-   cd seu_repositorio
+   cd integer-collector
    ```
 
 3. **Execute o Programa**
